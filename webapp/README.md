@@ -11,6 +11,7 @@ Steps to host the web application:
 2. Run the application: flask run
 
 Upon doing so, the following is rendered:
+
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/31846843/181418893-faecc283-0303-469a-949f-6fa966b21027.png">
 
 # Templates
